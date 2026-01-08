@@ -19,4 +19,4 @@
 - **Kotlin**
 - **Java**
 
-[Скринкаст работы приложения](https://drive.google.com/uc?export=view&id=15as-3bOhrRwz0NP7bdsqTF0WaikHAuQ3)
+[Скринкаст работы приложения](https://youtube.com/shorts/ZgTx47_Fv5c)
